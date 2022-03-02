@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @scottez5
-- I am new to the coding world and hear this is the place to be!
-- Currently learning HTML, CSS, and JavaScript.
+Hi, I’m @scottez5.<br>
+I am new to the coding world and hear this is the place to be!<br>
+Currently learning HTML, CSS, and JavaScript.
 
 <!---
 scottez5/scottez5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
